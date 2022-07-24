@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(223, 75, 104);
+    padding: 30px;
+    border: 5px solid;
+    color: aliceblue;
+  }
+
+h1{
+    background-color: rgba(219, 33, 70, 0);
+    text-align: center;
+}
+#meuH1{
+    font-family:cursive;
+    color: aliceblue;
+    margin: 5px;
+}
+.minha-class{
+    padding: 30px;
+    text-align: center;
+    
+}
+*{
+    margin: 30;
+    padding:20;
+}
+
+p {
+    font-family: cursive;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+ 
+  h2{
+    font-family: cursive;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+  }
+
+  h3{
+        font-family:cursive;
+        color: rgb(255, 255, 255);
+        margin: 20px;
+        font-size: 20px;
+        text-align:left;
+  }
+
+  img{
+    width:600;
+    height: 400;
+  }
